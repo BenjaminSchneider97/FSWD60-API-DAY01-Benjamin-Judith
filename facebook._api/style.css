@@ -1,0 +1,13 @@
+#fb-btn , #logout{
+       display: none;
+     }
+
+ .flex {
+ 	display: flex;
+
+ }
+
+ .navbar-right {
+ 	margin: auto 15px auto auto;
+
+ }
